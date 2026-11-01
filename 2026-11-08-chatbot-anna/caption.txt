@@ -1,0 +1,9 @@
+Comment CHECK and I'll tell you if the chat on your clinic website follows the EU AI Act rule.
+
+Since 2 August 2026, a chatbot in the EU has to make clear it's an AI (Article 50). Plenty of clinic websites still have a chat called Anna or Sophie, with a photo, and no word that it's a bot.
+
+The fix is small. One opening line that says it's the clinic's AI assistant, and one button to reach a real person. That's how I build every AI assistant: it answers, it books, and it hands over.
+
+This is the rule itself, not legal advice for your situation.
+
+#euaiact #aiassistant #clinicwebsite
