@@ -1,0 +1,12 @@
+{
+ "keep": [[0.0,0.95],[1.75,3.5],[4.06,6.85],[7.47,8.62],[9.0,9.65],[9.87,10.68],[11.95,15.1],[15.83,18.4],[18.95,20.9],[36.3,41.3],[49.05,51.1],[65.9,69.9],[76.25,78.8],[88.5,89.5],[89.65,91.0],[97.1,99.65]],
+ "cards": [
+  {"text":"Stop buying websites","at":0,"dur":2.7},
+  {"text":"The problem: 9 p.m.","at":5.54,"dur":2.57},
+  {"text":"Nobody picks up","at":13.83,"dur":1.95},
+  {"text":"Answers, books, hands over","at":22.83,"dur":6.5},
+  {"text":"Comment CHECK","at":29.38,"dur":2.35}
+ ],
+ "fix": {"miss":"missed"},
+ "say": [{"raw":[88.4,89.55],"text":"Comment CHECK."},{"raw":[89.6,91.0],"text":"I'll count yours for free."}]
+}
