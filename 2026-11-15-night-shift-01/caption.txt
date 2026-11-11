@@ -1,0 +1,8 @@
+How to test your clinic website's speed in 60 seconds, and what the number means
+
+What's your mobile score? Comment the number. Or comment CHECK and I'll run it for you and send you the video. Free.
+
+Open pagespeed.web.dev on your phone, paste your address, pick Mobile. This Dutch dental practice scored 65 today: text after 1.7 seconds, the big photo after 7.8. Google's own research says over half of people leave a page that takes more than three seconds. Under 50, and it's usually the photos, not the design. An afternoon of work.
+
+Location: Utrecht
+#clinicwebsite #pagespeed #dentalpractice
